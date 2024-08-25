@@ -14,7 +14,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/username/simon-says-game.git
+git clone https://github.com/ASHOK-MOHANTA/Simon-Say-Game/tree/master
 Navigate into the project directory:
 
 bash
